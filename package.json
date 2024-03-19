@@ -1,0 +1,22 @@
+{
+  "name": "abdm_backend",
+  "version": "1.0.0",
+  "description": "a backend server to do POC on 'aysuhman bharat digital mission' API's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Antony-AXS/ABDM.git"
+  },
+  "author": "Innovation Incubator Advisory",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Antony-AXS/ABDM/issues"
+  },
+  "homepage": "https://github.com/Antony-AXS/ABDM#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
