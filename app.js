@@ -5,7 +5,7 @@ import express from "express";
 const app = express();
 
 // Define a route
-app.get("/authentication", authentication);
+app.post("/authentication", authentication);
 
 // Start the server
 export default app;
